@@ -1,10 +1,13 @@
+p {
 
-
-    font size:100px;
-
+    font-size:100px;
+    color:red;
+    weight:bold;}
 
 h1 {
 
-        color:red;
+        color:blue;
+        font-size:50px;
+        weight:bold;
 
     }
